@@ -1,0 +1,727 @@
+{
+  "Bačka Topola": {
+    "count": 10,
+    "ads": [
+      {
+        "price": "17500",
+        "link": "https://www.4zida.rs/prodaja-kuca/stara-moravica-okolne-lokacije-backa-topola/jednoetazna/671cf55eb3531d94750f4373"
+      },
+      {
+        "price": "15500",
+        "link": "https://www.4zida.rs/prodaja-kuca/stara-moravica-okolne-lokacije-backa-topola/jednoetazna/66d0758744e0a7b5d20c431b"
+      },
+      {
+        "price": "19000",
+        "link": "https://www.4zida.rs/prodaja-kuca/pacir-okolne-lokacije-backa-topola/jednoetazna/670f486ec3a074f49f061085"
+      },
+      {
+        "price": "20000",
+        "link": "https://www.4zida.rs/prodaja-kuca/gradske-lokacije-backa-topola/jednoetazna/66f2134f59de0646db080104"
+      },
+      {
+        "price": "15000",
+        "link": "https://www.4zida.rs/prodaja-kuca/bagremovo-okolne-lokacije-backa-topola/jednoetazna/67105913cd9467edbb0299a4"
+      },
+      {
+        "price": "17000",
+        "link": "https://www.4zida.rs/prodaja-kuca/tomislavci-okolne-lokacije-backa-topola/jednoetazna/670e1660651e10e8a5077c43"
+      },
+      {
+        "price": "20000",
+        "link": "https://www.4zida.rs/prodaja-kuca/pobeda-okolne-lokacije-backa-topola/jednoetazna/670d9719cab7ca568f0b7263"
+      },
+      {
+        "price": "11500",
+        "link": "https://www.4zida.rs/prodaja-kuca/gradske-lokacije-backa-topola/kuca/668e5022a91902d5660f1112"
+      },
+      {
+        "price": "16000",
+        "link": "https://www.4zida.rs/prodaja-kuca/stara-moravica-okolne-lokacije-backa-topola/jednoetazna/67005d4e4bfa2ae6070d0d53"
+      },
+      {
+        "price": "20000",
+        "link": "https://www.4zida.rs/prodaja-kuca/panonija-okolne-lokacije-backa-topola/jednoetazna/668c9bbfb177d4c516038843"
+      }
+    ]
+  },
+  "Čoka": {
+    "count": 1,
+    "ads": [
+      {
+        "price": "10000",
+        "link": "https://www.4zida.rs/prodaja-kuca/padej-okolne-lokacije-coka/jednoetazna/663e0a017440a5fee70eca47"
+      }
+    ]
+  },
+  "Okolne lokacije": {
+    "count": 1,
+    "ads": [
+      {
+        "price": "20000",
+        "link": "https://www.4zida.rs/prodaja-kuca/salas-okolne-lokacije-zajecar/dvoetazna/64c20b2253bef11cbd0fc72a"
+      }
+    ]
+  },
+  "Knić": {
+    "count": 1,
+    "ads": [
+      {
+        "price": "17000",
+        "link": "https://www.4zida.rs/prodaja-kuca/brnjica-okolne-lokacije-knic/jednoetazna/671cceec437c90c8a104feed"
+      }
+    ]
+  },
+  "Sečanj": {
+    "count": 2,
+    "ads": [
+      {
+        "price": "15000",
+        "link": "https://www.4zida.rs/prodaja-kuca/krajisnik-okolne-lokacije-secanj/jednoetazna/671b77396521f170dd0f12c3"
+      },
+      {
+        "price": "15000",
+        "link": "https://www.4zida.rs/prodaja-kuca/krajisnik-okolne-lokacije-secanj/jednoetazna/66fbd294a6d4cd5e100b5c56"
+      }
+    ]
+  },
+  "Kragujevac": {
+    "count": 3,
+    "ads": [
+      {
+        "price": "19000",
+        "link": "https://www.4zida.rs/prodaja-kuca/cumic-okolne-lokacije-kragujevac/jednoetazna/65113ab5b23b4b24ca03f903"
+      },
+      {
+        "price": "17000",
+        "link": "https://www.4zida.rs/prodaja-kuca/cumic-okolne-lokacije-kragujevac/kuca/66a0012b28e26f65e2076c8e"
+      },
+      {
+        "price": "20000",
+        "link": "https://www.4zida.rs/prodaja-kuca/bresnica-gradske-lokacije-kragujevac/kuca/662781f872bf7ed16205a4c7"
+      }
+    ]
+  },
+  "Subotica": {
+    "count": 5,
+    "ads": [
+      {
+        "price": "18000",
+        "link": "https://www.4zida.rs/prodaja-kuca/bajmok-okolne-lokacije-subotica/kuca/6419dbd8b7e5d4904408686d"
+      },
+      {
+        "price": "15000",
+        "link": "https://www.4zida.rs/prodaja-kuca/bajmok-okolne-lokacije-subotica/jednoetazna/66d56f3f747f27fa28052673"
+      },
+      {
+        "price": "17000",
+        "link": "https://www.4zida.rs/prodaja-kuca/hajdukovo-okolne-lokacije-subotica/kuca/66d07480064c39aa6a0d6697"
+      },
+      {
+        "price": "19500",
+        "link": "https://www.4zida.rs/prodaja-kuca/kertvaros-gradske-lokacije-subotica/kuca/667eb769c8da3bea0b02233e"
+      },
+      {
+        "price": "11500",
+        "link": "https://www.4zida.rs/prodaja-kuca/makova-sedmica-gradske-lokacije-subotica/jednoetazna/662768bad3b531272b0cb125"
+      }
+    ]
+  },
+  "Petrovac na Mlavi": {
+    "count": 1,
+    "ads": [
+      {
+        "price": "20000",
+        "link": "https://www.4zida.rs/prodaja-kuca/kamenovo-okolne-lokacije-petrovac-na-mlavi/jednoetazna/66f3c8ef7073a1adc9006645"
+      }
+    ]
+  },
+  "Kanjiža": {
+    "count": 2,
+    "ads": [
+      {
+        "price": "10000",
+        "link": "https://www.4zida.rs/prodaja-kuca/martonos-okolne-lokacije-kanjiza/jednoetazna/67177232cdad8288ee064b53"
+      },
+      {
+        "price": "18200",
+        "link": "https://www.4zida.rs/prodaja-kuca/gradske-lokacije-kanjiza/jednoetazna/670f65a83e6ff5a8310651a3"
+      }
+    ]
+  },
+  "Nova Crnja": {
+    "count": 1,
+    "ads": [
+      {
+        "price": "15000",
+        "link": "https://www.4zida.rs/prodaja-kuca/radojevo-okolne-lokacije-nova-crnja/jednoetazna/64b41b4b1d5a6f48c1004644"
+      }
+    ]
+  },
+  "Rača": {
+    "count": 4,
+    "ads": [
+      {
+        "price": "10000",
+        "link": "https://www.4zida.rs/prodaja-kuca/gradske-lokacije-raca/jednoetazna/6718f6b7851306dc720429e9"
+      },
+      {
+        "price": "18000",
+        "link": "https://www.4zida.rs/prodaja-kuca/gradske-lokacije-raca/kuca/669f75a01a4a6088ae0baff8"
+      },
+      {
+        "price": "10000",
+        "link": "https://www.4zida.rs/prodaja-kuca/djurdjevo-okolne-lokacije-raca/kuca/666af2109974db608a02abcb"
+      },
+      {
+        "price": "20000",
+        "link": "https://www.4zida.rs/prodaja-kuca/sipic-okolne-lokacije-raca/kuca/660874fd76386c2d9e0d6008"
+      }
+    ]
+  },
+  "Leskovac": {
+    "count": 6,
+    "ads": [
+      {
+        "price": "15000",
+        "link": "https://www.4zida.rs/prodaja-kuca/gornje-sinkovce-okolne-lokacije-leskovac/dvoetazna/66f11132691f3e4891075ee7"
+      },
+      {
+        "price": "15000",
+        "link": "https://www.4zida.rs/prodaja-kuca/dusanovo-okolne-lokacije-leskovac/dvoetazna/66de95f951346d4aaa06cbe5"
+      },
+      {
+        "price": "15000",
+        "link": "https://www.4zida.rs/prodaja-kuca/hisar-gradske-lokacije-leskovac/dvoetazna/66a12cad8155f4023b00d535"
+      },
+      {
+        "price": "15000",
+        "link": "https://www.4zida.rs/prodaja-kuca/donja-lokosnica-okolne-lokacije-leskovac/jednoetazna/66a12a3b080bedba2f064d33"
+      },
+      {
+        "price": "15000",
+        "link": "https://www.4zida.rs/prodaja-kuca/turekovac-okolne-lokacije-leskovac/jednoetazna/66a129da4e0c5fc63203c9f3"
+      },
+      {
+        "price": "10000",
+        "link": "https://www.4zida.rs/prodaja-kuca/centar-gradske-lokacije-leskovac/jednoetazna/64f5ab79388c67b39108edcd"
+      }
+    ]
+  },
+  "Jagodina": {
+    "count": 4,
+    "ads": [
+      {
+        "price": "18000",
+        "link": "https://www.4zida.rs/prodaja-kuca/siokovac-okolne-lokacije-jagodina/kuca/67168d1f66fe46a13607e881"
+      },
+      {
+        "price": "18000",
+        "link": "https://www.4zida.rs/prodaja-kuca/lipar-gradske-lokacije-jagodina/kuca/6615425e1c4809ccb90d9d25"
+      },
+      {
+        "price": "18000",
+        "link": "https://www.4zida.rs/prodaja-kuca/ribnik-okolne-lokacije-jagodina/kuca/66c5cd715a5fb81eb80c13ba"
+      },
+      {
+        "price": "15000",
+        "link": "https://www.4zida.rs/prodaja-kuca/tabane-gradske-lokacije-jagodina/jednoetazna/651733a0feb35a530f07035e"
+      }
+    ]
+  },
+  "Bela Crkva": {
+    "count": 1,
+    "ads": [
+      {
+        "price": "13500",
+        "link": "https://www.4zida.rs/prodaja-kuca/gradske-lokacije-bela-crkva/kuca/66c47d4b331107a0af0fc741"
+      }
+    ]
+  },
+  "Sombor": {
+    "count": 2,
+    "ads": [
+      {
+        "price": "19000",
+        "link": "https://www.4zida.rs/prodaja-kuca/bezdan-okolne-lokacije-sombor/kuca/66c31c4c5da8814ff1090728"
+      },
+      {
+        "price": "15000",
+        "link": "https://www.4zida.rs/prodaja-kuca/bezdan-okolne-lokacije-sombor/jednoetazna/65f94f657da57c4134012b27"
+      }
+    ]
+  },
+  "Kruševac": {
+    "count": 4,
+    "ads": [
+      {
+        "price": "18999",
+        "link": "https://www.4zida.rs/prodaja-kuca/globoder-okolne-lokacije-krusevac/jednoetazna/66c3124beac5e301a608dec7"
+      },
+      {
+        "price": "20000",
+        "link": "https://www.4zida.rs/prodaja-kuca/gradske-lokacije-krusevac/kuca/66193293f18f42c9da02d42b"
+      },
+      {
+        "price": "16999",
+        "link": "https://www.4zida.rs/prodaja-kuca/djunis-okolne-lokacije-krusevac/jednoetazna/66ae5136178ad318100ab885"
+      },
+      {
+        "price": "15000",
+        "link": "https://www.4zida.rs/prodaja-kuca/djunis-okolne-lokacije-krusevac/jednoetazna/659d30a7bc7adbe329045f91"
+      }
+    ]
+  },
+  "Beograd": {
+    "count": 2,
+    "ads": [
+      {
+        "price": "20000",
+        "link": "https://www.4zida.rs/prodaja-kuca/avala-sopot-opstina-beograd/jednoetazna/67041db6af73e2328b095f43"
+      },
+      {
+        "price": "20000",
+        "link": "https://www.4zida.rs/prodaja-kuca/obrenovac-obrenovac-opstina-beograd/kuca/65fb1b651f91073ba10398ae"
+      }
+    ]
+  },
+  "Vladimirci": {
+    "count": 2,
+    "ads": [
+      {
+        "price": "14500",
+        "link": "https://www.4zida.rs/prodaja-kuca/mrovska-okolne-lokacije-vladimirci/dvoetazna/66d84f392b5a6fdf4d003923"
+      },
+      {
+        "price": "17000",
+        "link": "https://www.4zida.rs/prodaja-kuca/skupljen-okolne-lokacije-vladimirci/jednoetazna/65364e32dbbb555c7405af6c"
+      }
+    ]
+  },
+  "Zrenjanin": {
+    "count": 16,
+    "ads": [
+      {
+        "price": "20000",
+        "link": "https://www.4zida.rs/prodaja-kuca/banatski-despotovac-okolne-lokacije-zrenjanin/jednoetazna/66bfeb9460ebf9ab990b40fb"
+      },
+      {
+        "price": "15000",
+        "link": "https://www.4zida.rs/prodaja-kuca/lukicevo-okolne-lokacije-zrenjanin/jednoetazna/66e2328f66f54a56b704bedb"
+      },
+      {
+        "price": "20000",
+        "link": "https://www.4zida.rs/prodaja-kuca/aradac-okolne-lokacije-zrenjanin/kuca/66aa114e82201cf9e502b245"
+      },
+      {
+        "price": "20000",
+        "link": "https://www.4zida.rs/prodaja-kuca/taras-okolne-lokacije-zrenjanin/kuca/667330b79ffb5fcf910dc590"
+      },
+      {
+        "price": "20000",
+        "link": "https://www.4zida.rs/prodaja-kuca/aradac-okolne-lokacije-zrenjanin/jednoetazna/66888ca2990efc4f430464d3"
+      },
+      {
+        "price": "18000",
+        "link": "https://www.4zida.rs/prodaja-kuca/perlez-okolne-lokacije-zrenjanin/dvoetazna/662cbfa9a7b32c56fd070a25"
+      },
+      {
+        "price": "20000",
+        "link": "https://www.4zida.rs/prodaja-kuca/aradac-okolne-lokacije-zrenjanin/jednoetazna/66888ca3990efc4f430464d6"
+      },
+      {
+        "price": "15000",
+        "link": "https://www.4zida.rs/prodaja-kuca/farkazdin-okolne-lokacije-zrenjanin/kuca/662b8552ec44040028027878"
+      },
+      {
+        "price": "12000",
+        "link": "https://www.4zida.rs/prodaja-kuca/elemir-okolne-lokacije-zrenjanin/kuca/65dc4c8339b29494d808db79"
+      },
+      {
+        "price": "14500",
+        "link": "https://www.4zida.rs/prodaja-kuca/elemir-okolne-lokacije-zrenjanin/jednoetazna/63ead32b2d67d9e5460141b0"
+      },
+      {
+        "price": "12000",
+        "link": "https://www.4zida.rs/prodaja-kuca/lukicevo-okolne-lokacije-zrenjanin/jednoetazna/663cdcb46ac06d5d6800156c"
+      },
+      {
+        "price": "18000",
+        "link": "https://www.4zida.rs/prodaja-kuca/gradnulica-gradske-lokacije-zrenjanin/jednoetazna/66263c6f631c0c4fa902e61b"
+      },
+      {
+        "price": "15000",
+        "link": "https://www.4zida.rs/prodaja-kuca/muzlja-gradske-lokacije-zrenjanin/jednoetazna/66139e11a06bcf90f106a575"
+      },
+      {
+        "price": "13900",
+        "link": "https://www.4zida.rs/prodaja-kuca/lazarevo-okolne-lokacije-zrenjanin/kuca/657c491e8520f6903202c298"
+      },
+      {
+        "price": "20000",
+        "link": "https://www.4zida.rs/prodaja-kuca/taras-okolne-lokacije-zrenjanin/jednoetazna/65c2ccfc7b3bde5ab10bccca"
+      },
+      {
+        "price": "17700",
+        "link": "https://www.4zida.rs/prodaja-kuca/melenci-okolne-lokacije-zrenjanin/jednoetazna/6552bcd37ab131beef047d65"
+      }
+    ]
+  },
+  "Alibunar": {
+    "count": 1,
+    "ads": [
+      {
+        "price": "10500",
+        "link": "https://www.4zida.rs/prodaja-kuca/dobrica-okolne-lokacije-alibunar/kuca/66bf2788efb690f4d70b4649"
+      }
+    ]
+  },
+  "Gadžin Han": {
+    "count": 1,
+    "ads": [
+      {
+        "price": "17000",
+        "link": "https://www.4zida.rs/prodaja-kuca/gradske-lokacije-gadzin-han/dvoetazna/66e4293e5339ea436504f9f4"
+      }
+    ]
+  },
+  "Aleksinac": {
+    "count": 5,
+    "ads": [
+      {
+        "price": "20000",
+        "link": "https://www.4zida.rs/prodaja-kuca/subotinac-okolne-lokacije-aleksinac/dvoetazna/66dff60c485c20dd9905b1e5"
+      },
+      {
+        "price": "20000",
+        "link": "https://www.4zida.rs/prodaja-kuca/veliki-drenovac-okolne-lokacije-aleksinac/jednoetazna/662bae3e6e4a24b70e0b33e6"
+      },
+      {
+        "price": "20000",
+        "link": "https://www.4zida.rs/prodaja-kuca/veliki-drenovac-okolne-lokacije-aleksinac/jednoetazna/662bab996e4a24b70e0b3371"
+      },
+      {
+        "price": "20000",
+        "link": "https://www.4zida.rs/prodaja-kuca/veliki-drenovac-okolne-lokacije-aleksinac/jednoetazna/662ba9e56e4a24b70e0b3346"
+      },
+      {
+        "price": "12000",
+        "link": "https://www.4zida.rs/prodaja-kuca/boboviste-okolne-lokacije-aleksinac/jednoetazna/6353ed5925bfdd957905c8c1"
+      }
+    ]
+  },
+  "Mionica": {
+    "count": 1,
+    "ads": [
+      {
+        "price": "12000",
+        "link": "https://www.4zida.rs/prodaja-kuca/gornji-music-okolne-lokacije-mionica/jednoetazna/66ded1a22bf2bc0ee404bbb3"
+      }
+    ]
+  },
+  "Novi Bečej": {
+    "count": 1,
+    "ads": [
+      {
+        "price": "13800",
+        "link": "https://www.4zida.rs/prodaja-kuca/kumane-okolne-lokacije-novi-becej/jednoetazna/6703a8f81ec67dd8860a62ed"
+      }
+    ]
+  },
+  "Velika Plana": {
+    "count": 2,
+    "ads": [
+      {
+        "price": "18000",
+        "link": "https://www.4zida.rs/prodaja-kuca/gradske-lokacije-velika-plana/dvoetazna/668c4f0ea00866d86b064c13"
+      },
+      {
+        "price": "17500",
+        "link": "https://www.4zida.rs/prodaja-kuca/gradske-lokacije-velika-plana/jednoetazna/661ee0efc76adcf852003364"
+      }
+    ]
+  },
+  "Paraćin": {
+    "count": 1,
+    "ads": [
+      {
+        "price": "15000",
+        "link": "https://www.4zida.rs/prodaja-kuca/grza-gradske-lokacije-paracin/kuca/67004c0f7ff6e55113073ed6"
+      }
+    ]
+  },
+  "Zaječar": {
+    "count": 2,
+    "ads": [
+      {
+        "price": "19500",
+        "link": "https://www.4zida.rs/prodaja-kuca/planinica-okolne-lokacije-zajecar/dvoetazna/66fc2d8c823ed4a4cd0ab713"
+      },
+      {
+        "price": "15000",
+        "link": "https://www.4zida.rs/prodaja-kuca/vrazogrnac-okolne-lokacije-zajecar/jednoetazna/668566c194afa4b3280bbd06"
+      }
+    ]
+  },
+  "Srbobran": {
+    "count": 1,
+    "ads": [
+      {
+        "price": "17900",
+        "link": "https://www.4zida.rs/prodaja-kuca/gradske-lokacije-srbobran/kuca/658af0afac61abb8c002fc99"
+      }
+    ]
+  },
+  "Opovo": {
+    "count": 1,
+    "ads": [
+      {
+        "price": "16700",
+        "link": "https://www.4zida.rs/prodaja-kuca/sefkerin-okolne-lokacije-opovo/jednoetazna/66faa27483c988e95a00eaa5"
+      }
+    ]
+  },
+  "Žitište": {
+    "count": 2,
+    "ads": [
+      {
+        "price": "12000",
+        "link": "https://www.4zida.rs/prodaja-kuca/torda-okolne-lokacije-zitiste/kuca/66a7527dff62fbdbed0dafe5"
+      },
+      {
+        "price": "17500",
+        "link": "https://www.4zida.rs/prodaja-kuca/novi-itebej-okolne-lokacije-zitiste/jednoetazna/65443c6d94fbdeb86409e896"
+      }
+    ]
+  },
+  "Pančevo": {
+    "count": 1,
+    "ads": [
+      {
+        "price": "20000",
+        "link": "https://www.4zida.rs/prodaja-kuca/misa-vinogradi-gradske-lokacije-pancevo/dvoetazna/6565ab93ec64816de50403f8"
+      }
+    ]
+  },
+  "Ćićevac": {
+    "count": 1,
+    "ads": [
+      {
+        "price": "15000",
+        "link": "https://www.4zida.rs/prodaja-kuca/stalac-okolne-lokacije-cicevac/jednoetazna/66c885a133aac3e927093056"
+      }
+    ]
+  },
+  "Vladičin Han": {
+    "count": 1,
+    "ads": [
+      {
+        "price": "16000",
+        "link": "https://www.4zida.rs/prodaja-kuca/priboj-okolne-lokacije-vladicin-han/jednoetazna/5f56149d9a30915d7f6537ab"
+      }
+    ]
+  },
+  "Šabac": {
+    "count": 1,
+    "ads": [
+      {
+        "price": "16500",
+        "link": "https://www.4zida.rs/prodaja-kuca/rumska-okolne-lokacije-sabac/jednoetazna/66a0ffe96ba19a806c0bc194"
+      }
+    ]
+  },
+  "Bogatić": {
+    "count": 1,
+    "ads": [
+      {
+        "price": "15000",
+        "link": "https://www.4zida.rs/prodaja-kuca/badovinci-okolne-lokacije-bogatic/jednoetazna/66bb3b243f50c6d562078984"
+      }
+    ]
+  },
+  "Doljevac": {
+    "count": 6,
+    "ads": [
+      {
+        "price": "19000",
+        "link": "https://www.4zida.rs/prodaja-kuca/cecina-okolne-lokacije-doljevac/jednoetazna/65eeeab09c00d3f21806c573"
+      },
+      {
+        "price": "15000",
+        "link": "https://www.4zida.rs/prodaja-kuca/knezica-okolne-lokacije-doljevac/jednoetazna/65d4c664396533147a0e6f15"
+      },
+      {
+        "price": "19000",
+        "link": "https://www.4zida.rs/prodaja-kuca/cecina-okolne-lokacije-doljevac/jednoetazna/65eb214ff80d80961f00ae91"
+      },
+      {
+        "price": "19000",
+        "link": "https://www.4zida.rs/prodaja-kuca/cecina-okolne-lokacije-doljevac/jednoetazna/65eee8ad9c00d3f21806c367"
+      },
+      {
+        "price": "15000",
+        "link": "https://www.4zida.rs/prodaja-kuca/knezica-okolne-lokacije-doljevac/jednoetazna/65d4c2b1396533147a0e6e59"
+      },
+      {
+        "price": "15000",
+        "link": "https://www.4zida.rs/prodaja-kuca/knezica-okolne-lokacije-doljevac/jednoetazna/65d4c406396533147a0e6e83"
+      }
+    ]
+  },
+  "Bečej": {
+    "count": 1,
+    "ads": [
+      {
+        "price": "19000",
+        "link": "https://www.4zida.rs/prodaja-kuca/backo-petrovo-selo-okolne-lokacije-becej/kuca/664f55a2b9ec4b90f202fab2"
+      }
+    ]
+  },
+  "Trstenik": {
+    "count": 1,
+    "ads": [
+      {
+        "price": "18500",
+        "link": "https://www.4zida.rs/prodaja-kuca/osaonica-okolne-lokacije-trstenik/jednoetazna/66269306441a7c4a93089fba"
+      }
+    ]
+  },
+  "Rekovac": {
+    "count": 3,
+    "ads": [
+      {
+        "price": "15500",
+        "link": "https://www.4zida.rs/prodaja-kuca/gradske-lokacije-rekovac/kuca/6697d345dbf55be00703ca62"
+      },
+      {
+        "price": "16500",
+        "link": "https://www.4zida.rs/prodaja-kuca/beocic-okolne-lokacije-rekovac/jednoetazna/655661af768ca9f6460a2d8a"
+      },
+      {
+        "price": "15000",
+        "link": "https://www.4zida.rs/prodaja-kuca/gradske-lokacije-rekovac/kuca/659bf877162de64d8d014b7c"
+      }
+    ]
+  },
+  "Valjevo": {
+    "count": 1,
+    "ads": [
+      {
+        "price": "20000",
+        "link": "https://www.4zida.rs/prodaja-kuca/zabrdica-okolne-lokacije-valjevo/jednoetazna/65cb7dea15b369e6240d2f12"
+      }
+    ]
+  },
+  "Niš": {
+    "count": 4,
+    "ads": [
+      {
+        "price": "13500",
+        "link": "https://www.4zida.rs/prodaja-kuca/ostrovica-okolne-lokacije-nis/troeatazna/65f0998a76ac3f57d6075ac1"
+      },
+      {
+        "price": "20000",
+        "link": "https://www.4zida.rs/prodaja-kuca/delijski-vis-palilula-gradske-lokacije-nis/jednoetazna/6450d6850e7fb86a54010367"
+      },
+      {
+        "price": "19800",
+        "link": "https://www.4zida.rs/prodaja-kuca/gornja-toponica-okolne-lokacije-nis/jednoetazna/646cbe0ba7125052ac004ceb"
+      },
+      {
+        "price": "19000",
+        "link": "https://www.4zida.rs/prodaja-kuca/ravni-do-okolne-lokacije-nis/jednoetazna/6268233d02af60407313fd63"
+      }
+    ]
+  },
+  "Mali Zvornik": {
+    "count": 1,
+    "ads": [
+      {
+        "price": "16000",
+        "link": "https://www.4zida.rs/prodaja-kuca/gradske-lokacije-mali-zvornik/jednoetazna/665ef3cbd2d276595f06ff16"
+      }
+    ]
+  },
+  "Svrljig": {
+    "count": 3,
+    "ads": [
+      {
+        "price": "15000",
+        "link": "https://www.4zida.rs/prodaja-kuca/gradske-lokacije-svrljig/jednoetazna/654a2d71b87877a0240be46d"
+      },
+      {
+        "price": "15000",
+        "link": "https://www.4zida.rs/prodaja-kuca/gradske-lokacije-svrljig/jednoetazna/654a2b767071c0925d0f88aa"
+      },
+      {
+        "price": "15000",
+        "link": "https://www.4zida.rs/prodaja-kuca/gradske-lokacije-svrljig/jednoetazna/654a2a9a7071c0925d0f888f"
+      }
+    ]
+  },
+  "Kovin": {
+    "count": 1,
+    "ads": [
+      {
+        "price": "18500",
+        "link": "https://www.4zida.rs/prodaja-kuca/mramorak-okolne-lokacije-kovin/jednoetazna/6666d5e290224e8c85069757"
+      }
+    ]
+  },
+  "Kikinda": {
+    "count": 1,
+    "ads": [
+      {
+        "price": "11500",
+        "link": "https://www.4zida.rs/prodaja-kuca/gradske-lokacije-kikinda/kuca/64649b00c8128d97e80b79d3"
+      }
+    ]
+  },
+  "Svilajnac": {
+    "count": 1,
+    "ads": [
+      {
+        "price": "12500",
+        "link": "https://www.4zida.rs/prodaja-kuca/gradske-lokacije-svilajnac/kuca/65aac84933b0a1384c01610e"
+      }
+    ]
+  },
+  "Ub": {
+    "count": 1,
+    "ads": [
+      {
+        "price": "20000",
+        "link": "https://www.4zida.rs/prodaja-kuca/tvrdojevac-okolne-lokacije-ub/dvoetazna/65c679ffdb93dae0e70464d4"
+      }
+    ]
+  },
+  "Vlasotince": {
+    "count": 2,
+    "ads": [
+      {
+        "price": "16000",
+        "link": "https://www.4zida.rs/prodaja-kuca/orasje-gradske-lokacije-vlasotince/jednoetazna/650b0ee63175fc7f88039770"
+      },
+      {
+        "price": "16000",
+        "link": "https://www.4zida.rs/prodaja-kuca/orasje-gradske-lokacije-vlasotince/jednoetazna/650b0d573175fc7f88039716"
+      }
+    ]
+  },
+  "Bela Palanka": {
+    "count": 3,
+    "ads": [
+      {
+        "price": "15000",
+        "link": "https://www.4zida.rs/prodaja-kuca/gradske-lokacije-bela-palanka/jednoetazna/65255da3e1758fa0600c7edd"
+      },
+      {
+        "price": "18000",
+        "link": "https://www.4zida.rs/prodaja-kuca/gradske-lokacije-bela-palanka/jednoetazna/63ad5c97c3016bf4600e61eb"
+      },
+      {
+        "price": "15000",
+        "link": "https://www.4zida.rs/prodaja-kuca/gradske-lokacije-bela-palanka/jednoetazna/65256020e1758fa0600c7f6f"
+      }
+    ]
+  }
+}
